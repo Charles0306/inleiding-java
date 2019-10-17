@@ -85,6 +85,7 @@ public class Opdracht3 extends Applet {
 
                     default:
                     tekst = " Er zijn niet zoveel maanden";
+                    tekst2 = " ∞";
                     break;
             }
             repaint();
